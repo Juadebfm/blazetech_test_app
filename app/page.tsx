@@ -1,6 +1,9 @@
-import Header from "@/components/layouts/header/Header";
-import Logo from "../components/elements/icons/Logo";
+import { Hero } from "@/components";
 
 export default function Home() {
-  return <main className="no-scrollbar"></main>;
+  return (
+    <main className="no-scrollbar">
+      <Hero />
+    </main>
+  );
 }

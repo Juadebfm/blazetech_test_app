@@ -1,24 +1,20 @@
 {
   "header": [
     {
-      "label": "home",
-      "href": "/"
+      "label": "about us",
+      "href": "/about-us"
+    },
+    {
+      "label": "team",
+      "href": "/team"
+    },
+    {
+      "label": "solutions",
+      "href": "/solutions"
     },
     {
       "label": "blog",
       "href": "/blog"
-    },
-    {
-      "label": "works",
-      "href": "/works"
-    },
-    {
-      "label": "services",
-      "href": "/services"
-    },
-    {
-      "label": "gallery",
-      "href": "/gallery"
     }
   ]
 }
